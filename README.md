@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 
 
 
-- [LOL Login Screen](https://riuoki.github.io/link-interativo/)
+- [LOL Login Screen](https://riuoki.github.io/lol-login/)
 
 
 
